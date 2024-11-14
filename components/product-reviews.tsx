@@ -63,8 +63,9 @@ import less_review_n_teire_humidifier from './10016923_teire_ear_sort_with_refe_
 
 const categories = ["イヤホン","加湿器"] as const;
 const products = {
-  "イヤホン": ["QCY-T1C完全ワイヤレスイヤホン第3/4世代","AAC進化版ワイヤレスイヤホン"],
-  "加湿器": ["小型加湿器S08","エルズ ヒュミディファイアー"],
+  "イヤホン": ["QCY-T1C完全ワイヤレスイヤホン第3/4世代"],
+  // "イヤホン": ["QCY-T1C完全ワイヤレスイヤホン第3/4世代","AAC進化版ワイヤレスイヤホン"],
+  // "加湿器": ["小型加湿器S08","エルズ ヒュミディファイアー"],
 } as const;
 
 const reviews = {
