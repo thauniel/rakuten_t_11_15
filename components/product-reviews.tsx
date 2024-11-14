@@ -61,7 +61,7 @@ import less_review_n_teire_humidifier from './10016923_teire_ear_sort_with_refe_
 // import Modal from "react-modal"
 
 
-const categories = ["イヤホン","加湿器"] as const;
+const categories = ["イヤホン"] as const;
 const products = {
   "イヤホン": ["QCY-T1C完全ワイヤレスイヤホン第3/4世代"],
   // "イヤホン": ["QCY-T1C完全ワイヤレスイヤホン第3/4世代","AAC進化版ワイヤレスイヤホン"],
