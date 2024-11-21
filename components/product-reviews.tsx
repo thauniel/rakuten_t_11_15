@@ -390,7 +390,7 @@ export function ProductReviewsComponent() {
             </button>
 
             <button
-              className="rounded-full py-2 px-4 bg-red-500  text-white" 
+              className="rounded-full py-2 px-4 bg-blue-500  text-white" 
               title='positive:22 negative:0'
               onClick={() => {
                 buttonClick("性能",true)
